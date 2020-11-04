@@ -6,34 +6,34 @@ imports:
   - ./aliases.yml
 
 props:
- - name: color-brand-Secondary-darkest
-    value: '{!color-brand-secondary-darkest}'
+ - name: color-secondary-darkest
+    value: '{!color-secondary-darkest}'
     meta:
-      friendlyName: Color Brand Secondary Darkest
+      friendlyName: Color Secondary Darkest
     category: background-color
 
-  - name: color-brand-secondary-dark
-    value: '{!color-brand-secondary-dark}'
+  - name: color-secondary-dark
+    value: '{!color-secondary-dark}'
     meta:
-      friendlyName: Color Brand Secondary Dark
+      friendlyName: Color Secondary Dark
     category: background-color
 
-  - name: color-brand-secondary-medium
-    value: '{!color-brand-secondary-medium}'
+  - name: color-secondary-medium
+    value: '{!color-secondary-medium}'
     meta:
-      friendlyName: Color Brand Secondary Medium
+      friendlyName: Color Secondary Medium
     category: background-color
 
-  - name: color-brand-secondary-light
-    value: '{!color-brand-secondary-light}'
+  - name: color-secondary-light
+    value: '{!color-secondary-light}'
     meta:
-      friendlyName: Color Brand Secondary Light
+      friendlyName: Color Secondary Light
     category: background-color
 
-  - name: color-brand-secondary-lightest
-    value: '{!color-brand-secondary-lightest}'
+  - name: color-secondary-lightest
+    value: '{!color-secondary-lightest}'
     meta:
-      friendlyName: Color Brand Secondary Lightest
+      friendlyName: Color Secondary Lightest
     category: background-color
 
 

@@ -2,3 +2,6 @@
 global:
   type: aliases
   category: pallete-color
+
+aliases:
+  color-primary-darkest:'#0000'
