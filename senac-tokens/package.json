@@ -1,0 +1,36 @@
+{
+  "name": "senac-init-tokens",
+  "version": "0.0.1",
+  "description": "Design Tokens Senac DS",
+  "directories": {
+    "dist": "dist"
+  },
+  "files": [
+    "dist/",
+    "LICENSE",
+    "README.md"
+  ],
+  "devDependencies": {
+    "theo": "^8.1.5",
+    "theo-loader": "^4.0.0"
+  },
+  "scripts": {
+    "web": "theo src/tokens.yml --transform web --format scss --dest dist",
+    "ios": "theo src/tokens.yml --transform ios --format ios.json --dest dist",
+    "android": "theo src/tokens.yml --transform android --format android.xml --dest dist"
+  },
+  "keywords": [
+    "tokens",
+    "design tokens",
+    "design system"
+  ],
+  "author": "Dayana Junger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcardim/design_system"
+  },
+  "dependencies": {
+    "optimist": "^0.6.1"
+  }
+}

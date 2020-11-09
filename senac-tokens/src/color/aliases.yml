@@ -1,0 +1,24 @@
+---
+global:
+  type: aliases
+  category: pallete-color
+
+aliases:
+  color-primary-darkest:   '#0000'
+  color-primary-dark:   '#0000'
+  color-primary-medium:   '#0000'
+  color-primary-light:   '#0000'
+  color-primary-lightest:   '#0000'
+
+  color-secondary-darkest:   '#0000'
+  color-secondary-dark:   '#0000'
+  color-secondary-medium:   '#0000'
+  color-secondary-light:   '#0000'
+  color-secondary-lightest:   '#0000'
+
+  color-neutral-darkest:   '#0000'
+  color-neutral-dark:   '#0000'
+  color-neutral-medium:   '#0000'
+  color-neutral-light:   '#0000'
+  color-neutral-lightest:   '#0000'
+

@@ -1,0 +1,9 @@
+---
+global:
+  type: colors
+  category: all
+
+imports:
+  - ./primary.yml
+  - ./secondary.yml
+  - ./neutral.yml
