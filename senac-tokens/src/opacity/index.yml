@@ -4,17 +4,17 @@ global:
   category: opacity
 
 props:
-  - name: opacity-semi-opaque
+  - name: opacity-level-semi-opaque
     value: '0.8'
 
-  - name: opacity-intense
+  - name: opacity-level-intense
     value: '0.64'
 
-  - name: opacity-medium
+  - name: opacity-level-medium
     value: '0.32'
 
-  - name: opacity-light
+  - name: opacity-level-light
     value: '0.16'
 
-  - name: opacity-semi-transparent
+  - name: opacity-level-semi-transparent
     value: '0.08'

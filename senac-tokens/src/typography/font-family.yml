@@ -5,11 +5,11 @@ global:
 
 props:
   - name: font-family-base
-    value: "'Baskerville', serif"
+    value: "'BW Modelica', sans-serif"
     type: string
     category: font-family
 
   - name: font-family-highlight
-    value: "'Montserrat', 'BlinkMacSystemFont', 'San Francisco', 'Segoe UI', 'Helvetica Neue', sans-serif"
+    value: "'Roboto', 'Helvetica Neue', sans-serif"
     type: string
     category: font-family

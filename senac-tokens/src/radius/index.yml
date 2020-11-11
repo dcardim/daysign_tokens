@@ -8,10 +8,10 @@ props:
     value: 0
 
   - name: border-radius-small
-    value: '4px'
+    value: '8px'
 
   - name: border-radius-medium
-    value: '8px'
+    value: '16px'
 
   - name: border-radius-large
     value: '24px'

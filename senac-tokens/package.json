@@ -1,6 +1,6 @@
 {
-  "name": "senac-init-tokens",
-  "version": "0.0.1",
+  "name": "@dcardim/design-init-tokens",
+  "version": "0.0.2",
   "description": "Design Tokens Senac DS",
   "directories": {
     "dist": "dist"
@@ -26,11 +26,15 @@
   ],
   "author": "Dayana Junger",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dcardim/design_system"
-  },
+  
   "dependencies": {
     "optimist": "^0.6.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dcardim/design_system.git"
   }
 }

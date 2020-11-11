@@ -4,21 +4,21 @@ global:
   category: pallete-color
 
 aliases:
-  color-primary-darkest:   '#0000'
-  color-primary-dark:   '#0000'
-  color-primary-medium:   '#0000'
-  color-primary-light:   '#0000'
-  color-primary-lightest:   '#0000'
+  color-primary-darkest:   '#1B3647'
+  color-primary-dark:   '#2A526A'
+  color-primary-medium:   '#376886'
+  color-primary-light:   '#4784A9'
+  color-primary-lightest:   '#5FADDD'
 
-  color-secondary-darkest:   '#0000'
-  color-secondary-dark:   '#0000'
-  color-secondary-medium:   '#0000'
-  color-secondary-light:   '#0000'
-  color-secondary-lightest:   '#0000'
+  color-secondary-darkest:   '#FF7F00'
+  color-secondary-dark:   '#FF8C1B'
+  color-secondary-medium:   '#FFA750'
+  color-secondary-light:   '#FFC184'
+  color-secondary-lightest:   '#5FADDD'
 
-  color-neutral-darkest:   '#0000'
-  color-neutral-dark:   '#0000'
-  color-neutral-medium:   '#0000'
-  color-neutral-light:   '#0000'
-  color-neutral-lightest:   '#0000'
+  color-neutral-darkest:   '#1B3647'
+  color-neutral-dark:   '#2A526A'
+  color-neutral-medium:   '#376886'
+  color-neutral-light:   '#4784A9'
+  color-neutral-lightest:   '#5FADDD'
 

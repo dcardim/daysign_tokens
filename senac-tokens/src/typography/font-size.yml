@@ -5,29 +5,37 @@ global:
 
 props:
   - name: font-size-xxs
-    value: '12px'
+    value: '8px'
     category: font-size
 
   - name: font-size-xs
-    value: '16px'
+    value: '10px'
     category: font-size
 
   - name: font-size-sm
-    value: '24px'
+    value: '14px'
     category: font-size
 
   - name: font-size-md
-    value: '32px'
+    value: '16px'
     category: font-size
 
   - name: font-size-lg
-    value: '48px'
+    value: '20px'
     category: font-size
 
   - name: font-size-xl
-    value: '64px'
+    value: '24px'
     category: font-size
 
   - name: font-size-xxl
-    value: '72px'
+    value: '32px'
+    category: font-size
+
+  - name: font-size-xxxl
+    value: '40px'
+    category: font-size
+
+  - name: font-size-display
+    value: '40px'
     category: font-size
