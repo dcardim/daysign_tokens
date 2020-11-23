@@ -45,4 +45,4 @@
 //username: dcardim
 //password: personal token gerado no github em Settings Developer settings
 //Step 3
-//npm login --registry=https://npm.pkg.github.com
+//npm publish
