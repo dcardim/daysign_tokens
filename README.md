@@ -1,4 +1,11 @@
-# design_system
+# daysign_system
+
+// Compilar o Theo
+
+npm run web
+npm run ios
+npm run android
+
 
 //Step 1
 //npm login --registry=https://npm.pkg.github.com --scope=@dcardim
