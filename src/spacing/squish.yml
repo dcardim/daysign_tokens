@@ -7,18 +7,22 @@ imports:
 - ./aliases.yml
 
 props:
+  - name: spacing-squish-quark
+    value: '{!spacing-quark} {!spacing-nano}'
+    category: spacing-squish
+
+  - name: spacing-squish-nano
+    value: '{!spacing-nano} {!spacing-xxxs}'
+    category: spacing-squish
+
+  - name: spacing-squish-xs
+    value: '{!spacing-xxxs} {!spacing-xxs}'
+    category: spacing-squish
+
   - name: spacing-squish-sm
-    value: '{!spacing-xx-small} {!spacing-x-small}'
+    value: '{!spacing-xxxs} {!spacing-xs}'
     category: spacing-squish
 
   - name: spacing-squish-md
-    value: '{!spacing-x-small} {!spacing-small}'
-    category: spacing-squish
-
-  - name: spacing-squish-lg
-    value: '{!spacing-x-small} {!spacing-medium}'
-    category: spacing-squish
-
-  - name: spacing-squish-xl
-    value: '{!spacing-medium} {!spacing-large}'
+    value: '{!spacing-md} {!spacing-lg}'
     category: spacing-squish

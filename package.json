@@ -1,6 +1,6 @@
 {
   "name": "@dcardim/daysign-tokens",
-  "version": "0.0.3",
+  "version": "0.0.12",
   "description": "Daysign Tokens",
   "directories": {
     "dist": "dist"
@@ -26,7 +26,6 @@
   ],
   "author": "Dayana Junger",
   "license": "MIT",
-  
   "dependencies": {
     "optimist": "^0.6.1"
   },
@@ -38,4 +37,3 @@
     "url": "git@github.com:dcardim/daysign_tokens.git"
   }
 }
-

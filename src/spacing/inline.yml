@@ -7,30 +7,34 @@ imports:
 - ./aliases.yml
 
 props:
-  - name: spacing-inline-xxxs
-    value: '{!spacing-xxx-small}'
+  - name: spacing-inline-quark
+    value: '{!spacing-quark}'
+    category: spacing-inline
+
+  - name: spacing-inline-nano
+    value: '{!spacing-nano}'
     category: spacing-inline
 
   - name: spacing-inline-xxs
-    value: '{!spacing-xx-small}'
+    value: '{!spacing-xxs}'
     category: spacing-inline
 
   - name: spacing-inline-xs
-    value: '{!spacing-x-small}'
+    value: '{!spacing-xs}'
     category: spacing-inline
 
   - name: spacing-inline-sm
-    value: '{!spacing-x-small}'
+    value: '{!spacing-sm}'
     category: spacing-inline
 
   - name: spacing-inline-md
-    value: '{!spacing-medium}'
+    value: '{!spacing-md}'
     category: spacing-inline
 
   - name: spacing-inline-lg
-    value: '{!spacing-large}'
+    value: '{!spacing-lg}'
     category: spacing-inline
 
   - name: spacing-inline-xl
-    value: '{!spacing-x-large}'
+    value: '{!spacing-xl}'
     category: spacing-inline

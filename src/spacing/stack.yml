@@ -7,30 +7,55 @@ imports:
 - ./aliases.yml
 
 props:
+  
+  - name: spacing-stack-quark
+    value: '{!spacing-quark}'
+    category: spacing-stack
+
+  - name: spacing-stack-nano
+    value: '{!spacing-nano}'
+    category: spacing-stack
+  
   - name: spacing-stack-xxxs
-    value: '{!spacing-xxx-small}'
+    value: '{!spacing-xxxs}'
     category: spacing-stack
 
   - name: spacing-stack-xxs
-    value: '{!spacing-xx-small}'
+    value: '{!spacing-xxs}'
     category: spacing-stack
 
   - name: spacing-stack-xs
-    value: '{!spacing-x-small}'
+    value: '{!spacing-xs}'
     category: spacing-stack
 
   - name: spacing-stack-sm
-    value: '{!spacing-x-small}'
+    value: '{!spacing-sm}'
     category: spacing-stack
 
   - name: spacing-stack-md
-    value: '{!spacing-medium}'
+    value: '{!spacing-md}'
     category: spacing-stack
 
   - name: spacing-stack-lg
-    value: '{!spacing-large}'
+    value: '{!spacing-lg}'
     category: spacing-stack
 
   - name: spacing-stack-xl
-    value: '{!spacing-x-large}'
+    value: '{!spacing-xl}'
+    category: spacing-stack
+
+  - name: spacing-stack-xxl
+    value: '{!spacing-xxl}'
+    category: spacing-stack
+
+  - name: spacing-stack-xxxl
+    value: '{!spacing-xxxl}'
+    category: spacing-stack
+
+  - name: spacing-stack-huge
+    value: '{!spacing-huge}'
+    category: spacing-stack
+
+  - name: spacing-stack-giant
+    value: '{!spacing-giant}'
     category: spacing-stack

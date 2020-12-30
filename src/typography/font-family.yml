@@ -5,11 +5,11 @@ global:
 
 props:
   - name: font-family-base
-    value: "'BW Modelica', sans-serif"
+    value: Nunito
     type: string
     category: font-family
 
   - name: font-family-highlight
-    value: "'Roboto', 'Helvetica Neue', sans-serif"
+    value: Roboto
     type: string
     category: font-family

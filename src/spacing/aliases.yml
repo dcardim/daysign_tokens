@@ -4,10 +4,17 @@ global:
   category: spacing-scale
 
 aliases:
-  spacing-xxx-small: '4px'
-  spacing-xx-small:  '8px'
-  spacing-x-small:   '16px'
-  spacing-small:     '24px'
-  spacing-medium:    '32px'
-  spacing-large:     '48px'
-  spacing-x-large:   '64px'
+
+  spacing-quark: '4px'
+  spacing-nano: '8px'
+  spacing-xxxs: '16px'
+  spacing-xxs: '24px'
+  spacing-xs: '32px'
+  spacing-sm:  '40px'
+  spacing-md: '48px'
+  spacing-lg: '56px'
+  spacing-xl: '64px'
+  spacing-xxl: '80px'
+  spacing-xxxl: '120px'
+  spacing-huge: '160px'
+  spacing-giant: '200px'
